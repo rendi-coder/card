@@ -1,0 +1,11 @@
+.header-card {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  & > .logo {
+    img {
+      width: 100px;
+      height: 80px;
+    }
+  }
+}
